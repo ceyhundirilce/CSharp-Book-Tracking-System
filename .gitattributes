@@ -1,2 +1,2 @@
-*.cs linguist-detectable=true
+*.cs linguist-detectable=false
 *.sql linguist-detectable=true
