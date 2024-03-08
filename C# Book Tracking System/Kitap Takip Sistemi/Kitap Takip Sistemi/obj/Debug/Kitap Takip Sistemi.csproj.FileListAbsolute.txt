@@ -1,0 +1,68 @@
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe.config
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Form1.resources
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\QRCoder.dll
+C:\Users\CEYHUN\Desktop\211501050_Ceyhun_Dirilce\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CopyComplete
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe.config
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\QRCoder.dll
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CopyComplete
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Oku.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Takip_Sistemi.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe.config
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\bin\Debug\QRCoder.dll
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Oku.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Takip_Sistemi.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CopyComplete
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemii\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.pdb
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe.config
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.pdb
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\QRCoder.dll
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.AssemblyReference.cache
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Oku.resources
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Takip_Sistemi.resources
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Properties.Resources.resources
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.GenerateResource.cache
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CoreCompileInputs.cache
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CopyComplete
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.exe
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.pdb
+D:\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.QR_Zoom.resources
+C:\Users\CEYHUN\Desktop\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.QR_Zoom.resources
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe.config
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\Kitap Takip Sistemi.pdb
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\bin\Debug\QRCoder.dll
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Oku.resources
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Kitap_Takip_Sistemi.resources
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap_Takip_Sistemi.QR_Zoom.resources
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.csproj.CopyComplete
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.exe
+C:\Users\CEYHUN\Desktop\Projelerim\VERİTABANI\Kitap Takip Sistemi\Kitap Takip Sistemi\obj\Debug\Kitap Takip Sistemi.pdb
