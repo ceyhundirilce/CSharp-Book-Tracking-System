@@ -1,1 +1,2 @@
 *.cs linguist-detectable=true
+*.sql linguist-detectable=true
